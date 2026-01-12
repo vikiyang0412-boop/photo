@@ -1,8 +1,0 @@
-
-{
-  "name": "AI Professional Portrait Studio",
-  "description": "Upload your casual photo and transform it into a professional, studio-quality resume portrait using Gemini AI.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
